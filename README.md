@@ -100,4 +100,4 @@ I would like to thank my mentors **Mr. Prem Nivaas A** (Frontend) and **Mr. Inba
 > — **Prem Nivaas A**, Supervisor at GreenSoft Groups
 
 ---
-*Developed by Arokiya Nithish J*
+*Developed by Ishwarya M*
