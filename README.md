@@ -1,6 +1,6 @@
 # GreenSoft Groups Internship Projects
 
-**Intern:** Arokiya Nithish J  
+**Intern:** Ishwarya M  
 **ID:** VTU24347  
 **Department:** Artificial Intelligence and Data Science  
 **Internship Duration:** July 2025 - September 2025  
